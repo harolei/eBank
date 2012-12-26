@@ -1,0 +1,1 @@
+This is the first I commit a project on Github. This is the eBank system I wrote to let myself familiar with TDD. I want to write this system without the TDD first.
